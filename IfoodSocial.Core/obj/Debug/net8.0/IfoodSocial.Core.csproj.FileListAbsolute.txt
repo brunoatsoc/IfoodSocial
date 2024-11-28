@@ -1,0 +1,11 @@
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\bin\Debug\net8.0\IfoodSocial.Core.deps.json
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\bin\Debug\net8.0\IfoodSocial.Core.dll
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\bin\Debug\net8.0\IfoodSocial.Core.pdb
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\obj\Debug\net8.0\IfoodSocial.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\obj\Debug\net8.0\IfoodSocial.Core.AssemblyInfoInputs.cache
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\obj\Debug\net8.0\IfoodSocial.Core.AssemblyInfo.cs
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\obj\Debug\net8.0\IfoodSocial.Core.csproj.CoreCompileInputs.cache
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\obj\Debug\net8.0\IfoodSocial.Core.dll
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\obj\Debug\net8.0\refint\IfoodSocial.Core.dll
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\obj\Debug\net8.0\IfoodSocial.Core.pdb
+C:\Users\brunoatsoc\Desktop\IfoodSocial\IfoodSocial.Core\obj\Debug\net8.0\ref\IfoodSocial.Core.dll

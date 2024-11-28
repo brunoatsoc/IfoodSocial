@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tbD0G8JaN/yEhHCRfmK1+O1wAiCPocgnBQoiYn+VccM=",
+  "Source": "IfoodSocial.API",
+  "BasePath": "_content/IfoodSocial.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
